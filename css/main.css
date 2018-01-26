@@ -1,5 +1,5 @@
 .header-img {
-  background-image: url('images/2909-min.jpg');
+  background-image: url('../images/1.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 100%;
@@ -7,7 +7,7 @@
 }
 
 .parallax-img {
-  background-image: url('images/230026-P1ZDT9-104-min.jpg');
+  background-image: url('../images/2.jpg');
   max-width: 100%;
   height: 200px;
   background-repeat: no-repeat;
