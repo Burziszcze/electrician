@@ -1,4 +1,4 @@
 # electrician
-electrician's site
+electrician's site by my project
 
 https://burziszcze.github.io/electrician/
